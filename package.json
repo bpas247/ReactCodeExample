@@ -23,7 +23,7 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.1.1",
     "@testing-library/react": "^9.4.0",
-    "husky": "^4.2.1",
+    "husky": "^4.2.2",
     "prettier": "1.19.1",
     "pretty-quick": "^2.0.1",
     "redux-devtools": "3.5.0"
