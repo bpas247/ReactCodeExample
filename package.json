@@ -4,7 +4,7 @@
   "description": "Simple React application showcasing Redux and Jest (now using hooks!)",
   "private": true,
   "dependencies": {
-    "immer": "^6.0.5",
+    "immer": "^6.0.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "7.2.0",
